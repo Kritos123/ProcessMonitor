@@ -1,0 +1,3 @@
+-help writes information about adding process to monitor
+-add  adds process more info int -help command
+-q quits app
