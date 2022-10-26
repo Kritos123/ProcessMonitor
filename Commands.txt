@@ -1,3 +1,5 @@
+To start app run ProcessMonitor.exe in folder with exe file through cmdline.
+
 -help writes information about adding process to monitor
 -add  adds process more info int -help command
 -q quits app
